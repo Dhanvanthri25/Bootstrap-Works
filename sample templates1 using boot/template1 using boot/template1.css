@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Roboto:wght@700&display=swap');
+.card-body{
+    background-color: #f6c56e;
+    color: #323f4b;
+    border-radius: 20px 20px 0 0;
+}
+.card-title{
+    font-family: 'Bree Serif', serif;
+}
+.card-text,.btn{
+    font-family: 'Roboto', sans-serif;
+}
+.btn{
+    background-color: #ffffff;
+    color: #323f4b;
+    font-size: small;
+    border: none;
+    border-radius: 20px;
+}

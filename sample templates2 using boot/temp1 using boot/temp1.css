@@ -1,0 +1,15 @@
+.container-fluid{
+    background-color:#19232d;
+    color: #5a7184;
+}
+.fa-brands{
+    background-color:#202b36;
+    color:#5a7184;
+    border-radius:50%;
+}
+hr{
+    border: 1px solid #5a7184;
+}
+.copyright{
+    color: #959ead;
+}

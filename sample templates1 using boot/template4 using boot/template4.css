@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Roboto:wght@700&display=swap');
+.button1{
+    background-color:#ffffff;
+    color:#171f46;
+    border-color:#d7dfe9;
+} 
+.button2{
+    background-color:#5752ab;
+    color:#ffffff;
+}
+.title{
+    color:#5752ab;
+    font-family: 'Bree Serif';
+}
+p{
+    color:#323f4b;
+    font-family:'Roboto';
+}
+

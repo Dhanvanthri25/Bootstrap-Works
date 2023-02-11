@@ -1,0 +1,11 @@
+img{
+    width: 100%;
+    height: 100%;
+}
+.container-fluid{
+    background-color:aqua;
+}
+.row{
+    background-color: whitesmoke;
+    /* border-radius:15px; */
+}
